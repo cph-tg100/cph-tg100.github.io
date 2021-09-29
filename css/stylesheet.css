@@ -1,0 +1,89 @@
+.topnav a:hover {
+  background-color: rgb(228, 171, 188); 
+  color: black;
+  }
+  
+  .topnav a.active {
+  background-color:lightcoral;
+  color:rgb(255, 167, 167);
+  }
+  
+  /*Hovedmenu*/
+  .topnav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    li {
+      display: inline;ß
+    }
+  
+    .topnav a {
+      float: left;
+      color: rgb(255, 138, 138);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .topnav a:hover {
+      float: left;
+      background-color:rgb(252, 205, 205);
+      color: rgb(255, 138, 138);
+    }
+    
+    .topnav a.active {
+      float: left;
+      background-color: #e0d7e2;
+      color:rgb(238, 205, 176);
+    }
+
+    h1{
+     
+      color: rgb(255, 138, 138);
+      }
+    
+    {
+    background color:rgp(252,205,205);
+    }
+
+
+    body{
+    background-color: rgb(255, 231, 235);
+    font-family: Arial, Helvetica, sans-serif
+    }
+
+    
+    
+
+    #startside .sectionwrapper {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 1rem;
+  }
+  
+  #startside .col {
+      flex-grow: 1;
+      flex-basis: 500px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 0 0.8rem 0.6rem;
+      margin: 1rem;
+      background-color: rgb(255, 138, 138);
+      align-items: center;
+  
+  }
+
+  section {
+    width: 100%;
+    margin: 0 auto;
+}
+
+sectionwrapper {
+    margin-top: 0;
+}
+ß
+
